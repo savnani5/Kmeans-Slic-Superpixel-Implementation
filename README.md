@@ -8,9 +8,9 @@ A superpixel can be defined as a group of pixels that share common characteristi
 
 ## For this project we implement the following (reference [paper](https://github.com/savnani5/Kmeans-Slic-Superpixel-Implementation/blob/main/SLIC_Superpixels.pdf) for slic):
   
-  Original Image
+     Original Image
   
-  ![alt text](gitimages/og_img.PNG)
+     ![alt text](gitimages/og_img.PNG)
 
 - Kmeans Clustering on RGB (3 channel) image
 
